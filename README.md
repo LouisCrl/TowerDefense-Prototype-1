@@ -40,6 +40,6 @@ This is my first prototype of a Tower Defense game or a game with dynamics anima
 I'm new in game development world but I really love that and I want to continue so if someone read that and want to help me I'll take every advice in game development, rust development, game design and even how to make commentaries. <br>
 By the way if I do some errors or you think something isn't clear or anything in this readme or in commentaries in my games don't hesitate to tell me ! <br>
 You can fin me on: <br>
-- discord: papplushh <br>
-- instagram: @papplush <br>
-- x (previously twitter): @Papplush <br>
+- **discord**: papplushh <br>
+- **instagram**: @papplush <br>
+- **x (previously twitter)**: @Papplush <br>
