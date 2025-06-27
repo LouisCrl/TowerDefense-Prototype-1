@@ -38,7 +38,7 @@ The game is infinite, you have no health, just enemies spawning and having healt
 
 This is my first prototype of a Tower Defense game or a game with dynamics animations and my first prototype using bevy. That's why it is not much and it's not a real game, I didn't spend much times on balancing and upgrades. I didn't wanted to make a difficult and long prototype. Just a classic infinite tower defense where you just place towers and don't even upgrade them. By doing that project, I wanted to manipulate bevy and train with Rust. <br>
 I'm new in game development world but I really love that and I want to continue so if someone read that and want to help me I'll take every advice in game development, rust development, game design and even how to make commentaries. <br>
-By the way if I do some errors or you think something isn't clear or anything in this or in commentaries in my games don't hesitate to tell me ! <br>
+By the way if I do some errors or you think something isn't clear or anything in this readme or in commentaries in my games don't hesitate to tell me ! <br>
 You can fin me on: <br>
 - discord: papplushh <br>
 - instagram: @papplush <br>
