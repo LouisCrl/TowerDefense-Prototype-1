@@ -11,6 +11,8 @@ game with
     cargo run --release
     
 
+You can also download the latest version of the prototype here: [Download release](https://github.com/LouisCrl/TowerDefense-Prototype-1/releases)
+
 ## How to play
 
 When you start the protoype, you spawn directly on the game: <br>
